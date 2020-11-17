@@ -1,0 +1,16 @@
+{
+  "name": "gyazo-js",
+  "version": "1.0.0",
+  "description": "JS backend for gyazo",
+  "main": "index.js",
+  "repository": "https://github.com/vlakam/gyazo-js",
+  "author": "Vladislav Kamenev",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^3.8.0",
+    "fastify-multipart": "^3.3.0",
+    "pngjs": "^6.0.0"
+  }
+}
